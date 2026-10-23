@@ -1,0 +1,1 @@
+{"name":"portfolio-jobs-api","version":"1.0.0","private":true,"description":"Documented job listings API with validation, tests and deployment files","main":"src/server.js","scripts":{"start":"node src/server.js","dev":"node --watch src/server.js","test":"node --test"},"engines":{"node":">=20"}}
